@@ -1,0 +1,17 @@
+base
+base-devel
+btrfs-progs
+amd-ucode
+linux
+linux-lts
+linux-headers
+linux-lts-headers
+linux-firmware
+openssh
+rsync
+reflector
+git
+vim
+nano
+efibootmgr
+git

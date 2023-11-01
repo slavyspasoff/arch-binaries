@@ -1,0 +1,11 @@
+avahi
+dnsmasq
+dnsutils
+net-tools
+ethtool
+bind
+iptables-nft
+network-manager-applet
+nss-mdns
+samba
+ufw

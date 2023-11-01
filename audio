@@ -1,0 +1,8 @@
+alsa-plugins
+alsa-utils
+lib32-pipewire
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-pulse
+wireplumber

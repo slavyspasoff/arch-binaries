@@ -1,0 +1,11 @@
+curl
+efibootmgr
+grub
+grub-btrfs
+less
+networkmanager
+man
+snapper
+snap-pac
+wget
+zsh
